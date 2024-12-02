@@ -32,7 +32,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Copy of Capstone Dataset' name='excel-direct.1j6hwu40bags1t14hsuhg0y1bqdq'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Choud/Downloads/COOP/Copy of Capstone Dataset.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' <dashboard url='https://public.tableau.com/app/profile/choudhary.ali/viz/CreativeDataset/PerformanceMetricsforCreativeMessaging' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1j6hwu40bags1t14hsuhg0y1bqdq' name='Dataset (Creative Version)' table='[&apos;Dataset (Creative Version)$&apos;]' type='table'>
