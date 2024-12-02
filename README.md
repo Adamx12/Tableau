@@ -1,1 +1,1 @@
-Before you download the dataset on tableau public, you need to download the Excel file which I have attached on here otherwise it will not work. 
+If you want to make changes to the dataset, download the xlsx file. Also you need to copy and paste the Tableau Public link because if I upload the file on here it will not work. 
